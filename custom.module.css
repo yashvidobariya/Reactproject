@@ -1,0 +1,41 @@
+.bglight{
+    background-color: rgb(211, 211, 246) !important;
+}
+
+.navLink{
+    color: rgb(4, 4, 129) !important;
+}
+
+.logo{
+    color: rgb(123, 156, 184);
+    font-size: xx-large;
+}
+.logo span{
+    color: black;
+}
+.home{
+    color: purple;
+    min-height: 90vh;
+    display: flex;
+    align-items: center;
+    background:url(login.jpg)no-repeat ;
+    background-size: cover;
+    background-position: center;
+}
+.content h3{
+    font-size: 60px;
+    margin-top: 7%;
+    max-width: 60rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 80px;
+    text-shadow: 2px 2px 5px black;
+}
+.btn{
+    margin-top: 1rem;
+    margin-left: 9rem;
+    display: inline-block;
+    color: black;
+    text-decoration: none;
+    padding: 15px 15px;
+    background-color: palevioletred;
+}
